@@ -438,7 +438,7 @@ rules:
     - describe # Просмотр деталей
 # ДОПОЛНИТЕЛЬНО: Можно добавить больше правил для других ресурсов
 ```
-[3](https://github.com/Alm798/Kuber_2.2/blob/main/3.png)
+[3]((https://github.com/Alm798/Kuber_2.2/blob/main/3.png))
 
 ---
 
