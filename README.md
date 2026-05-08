@@ -166,6 +166,7 @@ openssl req -x509 -nodes -days 365 -newkey rsa:2048 \
   - `secret-tls.yaml`
   - `ingress-tls.yaml`
 - Скриншот вывода `curl -k`
+[2](https://github.com/Alm798/Kuber_2.2/blob/main/2.png)
 
 ## Ответ:
 
@@ -347,7 +348,7 @@ roleRef:
 ### ` kubectl apply -f rbac-pod-access.yaml `
 
 ### 3. Проверка доступа
-
+[3]((https://github.com/Alm798/Kuber_2.2/blob/main/3.png))
 
 ### **Что сдать на проверку**  
 - Манифесты:
@@ -438,7 +439,7 @@ rules:
     - describe # Просмотр деталей
 # ДОПОЛНИТЕЛЬНО: Можно добавить больше правил для других ресурсов
 ```
-[3]((https://github.com/Alm798/Kuber_2.2/blob/main/3.png))
+
 
 ---
 
